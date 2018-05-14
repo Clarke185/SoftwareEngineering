@@ -1,0 +1,12 @@
+/* 
+    Created on : 11-May-2018, 10:42:31
+    Author     : James Clarke jamesmichaelclarke@hotmail.co.uk
+*/
+
+input[type=submit] {
+    width: 23em;  height: 2.5em;
+}
+
+input[type=file] {
+    width: 23em; height: 2.5em;
+}
